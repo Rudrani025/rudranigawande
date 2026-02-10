@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rudrani Gawande</h1>
 <h3 align="center">Developing reliable server-side applications</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrani025&label=Profile%20views&color=0e75b6&style=flat" alt="rudrani025" /> </p>
